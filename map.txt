@@ -1,0 +1,26 @@
+        C          C  
+ CSSC BSSSC CSSC BSSSC
+ CSSC BSTSC CSSC BSTSC
+      BSTSC      BSSSC
+ BSSC       BSSC   C  
+ BSSC CSSC  BSTTSC
+ BSSC CSSC  BSTTSC
+           
+  SSSS CSSC  SSSS CSSC
+  BBBB CSSC  BBBB CSSC
+
+        C          C  
+ CSSC BSSSC CSSC BSSSC
+ CSSC BSTSC CSSC BSTSC
+      BSTSC      BSTSC
+ BSSC       BSSC      
+ BSSC CSSC  BSSC CSSC 
+ BSSC CSSC  BSSC CSSC 
+           
+  CSSC CSSC  CSSC CSSC
+
+
+these are the rules:
+1. capital letters are the only ones the program is looking for.
+2. b = bench, c = chair, t = table, s = table with plate.
+3. a map.txt must be in the same folder as the .jar file.
